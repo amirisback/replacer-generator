@@ -14,7 +14,7 @@ public class Main implements MainView {
     public void view() {
         System.out.println("Vokal Replace Generator");
         System.out.println("Create By Muhammad Faisal Amir");
-        System.out.println("Github account : @amirisback");
+        System.out.println("Github account @amirisback");
         System.out.println("Android Programmer");
         System.out.println("-----------------------------------");
         System.out.println();

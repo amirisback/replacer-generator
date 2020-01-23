@@ -19,6 +19,7 @@ package com.frogobox;
 public interface MainView {
 
     void view();
+
     void logic();
 
 }
